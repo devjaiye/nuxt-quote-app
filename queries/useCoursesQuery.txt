@@ -1,0 +1,29 @@
+
+
+// export const useCoursesByIdQuery = (
+//     id: Ref<string>) => {
+//   const config = useRuntimeConfig();
+
+//   return useQuery({
+//     queryKey: ["courses", id],
+//     queryFn: async () => {
+//       const apiBaseUrl: Url | null = config.public.apiBaseUrl || null;
+
+//       if (!apiBaseUrl) {
+//         throw new Error("Missing apiBaseUrl");
+//       }
+
+//       const response = await axios.get(
+//         `${apiBaseUrl}/courses/${id.value}`, {
+//           headers: {
+//             Accept: "application/json",
+//             "Content-Type": "application/json",
+//           },
+//         }
+//       );
+
+//       return response.data;
+//     },
+//     staleTime: 1000 * 60 * 2,
+//   });
+// };
