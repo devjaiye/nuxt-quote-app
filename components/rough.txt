@@ -1,63 +1,13 @@
-<template>
-  <div class="bg-white">
-    <div class="py-16 sm:py-24 xl:mx-auto xl:max-w-7xl xl:px-8">
-      <div class="px-4 sm:flex sm:items-center sm:justify-between sm:px-6 lg:px-8 xl:px-0">
-        <h2 class="text-2xl font-bold tracking-tight text-gray-900">Browse by Category</h2>
-        <!-- <a href="#" class="hidden text-sm font-semibold text-indigo-600 hover:text-indigo-500 sm:block">
-         More
-          <span aria-hidden="true"> &rarr;</span>
-        </a> -->
-      </div>
+TODO.
 
-      <div class="mt-4 flow-root">
-        <div class="-my-2">
-          <div class="relative box-content h-80 overflow-x-auto py-2 xl:overflow-visible">
-            <ul role="list" class="absolute space-x-8 px-4 sm:px-6 lg:px-8 xl:relative xl:grid xl:grid-cols-5 xl:gap-x-8 xl:space-x-0 xl:px-0">
-              <li v-for="(category, index) in uniqueCategories" :key="index"  
-              class="relative flex h-80 w-56 flex-col overflow-hidden rounded-lg p-6 hover:opacity-75 xl:w-auto">
-               <NuxtLink :to="`quotes/${category.category}`">
-                <span aria-hidden="true" class="absolute inset-0">
-                  <img :src="category.image" alt="" class="h-full w-full object-cover object-center" />
-                </span>
-                <span aria-hidden="true" class="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-gray-800 opacity-50" />
-                <span class="relative mt-auto text-center text-xl font-bold text-white bg-orange-400">
-                  {{ category?.category || "None.."}}
-                </span>
-            </NuxtLink> 
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- <div class="mt-6 px-4 sm:hidden">
-        <a href="#" class="block text-sm font-semibold text-indigo-600 hover:text-indigo-500">
-          More
-          <span aria-hidden="true"> &rarr;</span>
-        </a>
-      </div> -->
-    </div>
-  </div>
-</template>
+Change route, -- done
+Add back button, -- done
+add copy to clipboard -- done
+paginated category list
+add category images,
+add footer,
+add loader for category and quotes,
+mobile responsiveness,
+add more quotes (10 at least)
 
-<script setup>
-  import { useCategoriesQuery } from '~/queries';
-
-  const {data} = useCategoriesQuery()
-
-  const uniqueCategories = computed(() => {
-    const categoryMap = new Map();
-    (data?.value?.data || []).forEach(item => {
-      if (!categoryMap.has(item.category)) {
-        categoryMap.set(item.category, item);
-      }
-    });
-    return Array.from(categoryMap.values());
-  });
-
-  console.log("Unique Categories: ", uniqueCategories.value || {}) 
-
-
-  // const categories = computed(()=> [...new Set(data?.value?.data )]|| [])
-
-  // console.log("Category: ", categories || {}) 
-</script>
+pay 10k to CAC conference project
