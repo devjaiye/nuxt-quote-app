@@ -3,11 +3,10 @@ TODO.
 Change route, -- done
 Add back button, -- done
 add copy to clipboard -- done
-paginated category list
-add category images,
-add footer,
-add loader for category and quotes,
+paginated category list -- done
+add category images, -- done
+add footer, -- done
+add loader for category and quotes, -- done
 mobile responsiveness,
-add more quotes (10 at least)
-
-pay 10k to CAC conference project
+change logo in header, --done
+add more quotes (20 at least) 

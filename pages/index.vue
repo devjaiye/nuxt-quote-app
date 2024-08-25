@@ -1,3 +1,4 @@
 <template>
    <QuoteCategories/>
+   <Footer/>
   </template>

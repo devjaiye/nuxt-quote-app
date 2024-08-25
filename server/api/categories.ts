@@ -50,7 +50,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 3,
         "name": "Science",
-        "image": "https://example.com/curie.jpg",
+        "image": "https://imgs.search.brave.com/teOIpXnL3FWau3aZPgSh5CSMwFsqth4jBhioIAaSgxk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bm9iZWxwcml6ZS5v/cmcvaW1hZ2VzL2N1/cmllLXBvcnRyYWl0/LXBob3RvLTM1MTQt/bGFuZHNjYXBlLWdh/bGxlcnkuanBn",
         "quotes": [
           {
             "id": 7,
@@ -72,7 +72,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 4,
         "name": "Change",
-        "image": "https://example.com/gandhi.jpg",
+        "image": "https://media.gettyimages.com/id/3259990/photo/indian-leader-mahatma-gandhi.jpg?s=612x612&w=0&k=20&c=t41-k9ER5-6icgA5UGih3Ykpi65eWEtY016AC0wiz1g=",
         "quotes": [
           {
             "id": 10,
@@ -94,7 +94,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 5,
         "name": "Perseverance",
-        "image": "https://example.com/mandela.jpg",
+        "image": "https://media.gettyimages.com/id/171532260/photo/state-president-of-south-africa-nelson-mandela-smiles-on-may-22-bonn-germany.jpg?s=612x612&w=0&k=20&c=MVfUPkooJjQuTmOJHwZsK7ZRGAUmwaOrVNMOK8fX8ps=",
         "quotes": [
           {
             "id": 13,
@@ -116,7 +116,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 6,
         "name": "Motivation",
-        "image": "https://example.com/twain.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/mark-twain-and-ulysses-s-grant.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 16,
@@ -138,7 +138,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 7,
         "name": "Philosophy",
-        "image": "https://example.com/shakespeare.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/william-shakespeare-194895-1-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 19,
@@ -160,7 +160,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 8,
         "name": "Art",
-        "image": "https://example.com/davinci.jpg",
+        "image": "https://cdn.britannica.com/24/189624-050-F3C5BAA9/Mona-Lisa-oil-wood-panel-Leonardo-da.jpg?w=1000",
         "quotes": [
           {
             "id": 22,
@@ -182,7 +182,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 9,
         "name": "Wisdom",
-        "image": "https://example.com/plato.jpg",
+        "image": "https://media.gettyimages.com/id/1204441047/photo/plato-greek-philosopher-student-of-socrates-founder-of-the-academy-watercolor.jpg?s=612x612&w=0&k=20&c=rv51GCukK54jNory-KnJI10x8sC-xtkGeyXmbcD-ACs=",
         "quotes": [
           {
             "id": 25,
@@ -204,7 +204,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 10,
         "name": "Self",
-        "image": "https://example.com/aristotle.jpg",
+        "image": "https://media.istockphoto.com/id/1217329642/photo/aristotle-on-black.jpg?s=612x612&w=0&k=20&c=es3XbbTHduvXFfqCQ9HjF73eQMxB541J0vcqKL7NgH8=",
         "quotes": [
           {
             "id": 28,
@@ -226,7 +226,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 11,
         "name": "Adventure",
-        "image": "https://example.com/emerson.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/ralph-waldo-emerson-9287153-1-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 31,
@@ -248,7 +248,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 12,
         "name": "Innovation",
-        "image": "https://example.com/edison.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-615312634.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 34,
@@ -270,7 +270,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 13,
         "name": "Vision",
-        "image": "https://example.com/keller.jpg",
+        "image": "https://media.gettyimages.com/id/515219692/photo/american-writer-and-educator-helen-keller.jpg?s=612x612&w=0&k=20&c=q2Mvt4eg0EWI0o7KurBK8QOc2c8BKKOpjlhM4-DD83g=",
         "quotes": [
           {
             "id": 37,
@@ -292,7 +292,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 14,
         "name": "Curiosity",
-        "image": "https://example.com/curie.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Walt_Disney_Snow_white_1937_trailer_screenshot_(13).jpg",
         "quotes": [
           {
             "id": 40,
@@ -314,7 +314,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 15,
         "name": "Service",
-        "image": "https://example.com/gandhi.jpg",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWUyZTExODYtMTNmNi00OTFmLTkwZjQtYmI2MjViNTI0ZjQwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@.jpg",
         "quotes": [
           {
             "id": 43,
@@ -336,7 +336,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 16,
         "name": "Education",
-        "image": "https://example.com/mandela.jpg",
+        "image": "https://media.gettyimages.com/id/871633958/photo/malcolm-x-born-malcolm-little-he-was-an-american-muslim-minister-and-a-human-rights-activist.jpg?s=612x612&w=0&k=20&c=bTSQ0wBmwHDoewfmtmN5E8tS8_kdIhvWdNBclVS_qfQ=",
         "quotes": [
           {
             "id": 46,
@@ -358,7 +358,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 17,
         "name": "Kindness",
-        "image": "https://example.com/twain.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dalailama1_20121014_4639.jpg",
         "quotes": [
           {
             "id": 49,
@@ -380,7 +380,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 18,
         "name": "Progress",
-        "image": "https://example.com/curie.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/winston-churchill-9248164-1-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 52,
@@ -424,7 +424,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 20,
         "name": "Resilience",
-        "image": "https://example.com/confucius.jpg",
+        "image": "https://i.pinimg.com/originals/6f/60/fa/6f60fa3f62a25f455eefe14d97b9a99a.jpg",
         "quotes": [
           {
             "id": 58,
@@ -468,7 +468,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 22,
         "name": "Opportunity",
-        "image": "https://example.com/edison.jpg",
+        "image": "https://resizing.flixster.com/h8zO7RQjnkMmT30FYXm74i0IHLA=/218x280/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/144_v9_ba.jpg",
         "quotes": [
           {
             "id": 64,
@@ -490,7 +490,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 23,
         "name": "Positivity",
-        "image": "https://example.com/keller.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg",
         "quotes": [
           {
             "id": 67,
@@ -512,7 +512,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 24,
         "name": "Success",
-        "image": "https://example.com/einstein.jpg",
+        "image": "https://cdn1.sportngin.com/attachments/photo/1079/6819/Vince_Lombardi.png",
         "quotes": [
           {
             "id": 70,
@@ -534,7 +534,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 25,
         "name": "Learning",
-        "image": "https://example.com/davinci.jpg",
+        "image": "https://media.gettyimages.com/id/56466763/photo/greece-socrates-griech-philosopher-bust-marble-socrates-griech-philosoph-bueste-marmor.jpg?s=612x612&w=0&k=20&c=yd44FVqrJKMCwdSvejrVNDI1w2skjSl3nDLC0ZzuD2E=",
         "quotes": [
           {
             "id": 73,
@@ -556,7 +556,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 26,
         "name": "Mindfulness",
-        "image": "https://example.com/dalai.jpg",
+        "image": "https://media.gettyimages.com/id/612294548/photo/marcus-aurelius.jpg?s=612x612&w=0&k=20&c=xmXpvxrLqg1oKlDGmoJcnK4r29-P7c_oNpTEPNyk8hE=",
         "quotes": [
           {
             "id": 76,
@@ -578,7 +578,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 27,
         "name": "Creativity",
-        "image": "https://example.com/van.jpg",
+        "image": "https://media.gettyimages.com/id/919781452/photo/portrait-of-vincent-van-gogh-1886-found-in-the-collection-of-van-gogh-museum-amsterdam.jpg?s=612x612&w=0&k=20&c=WJ5_z7iU4ltmOiU7IYxOZ_V1VMlRMwq1mV6ePiZSZLo=",
         "quotes": [
           {
             "id": 79,
@@ -600,7 +600,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 28,
         "name": "Gratitude",
-        "image": "https://example.com/teresa.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 82,
@@ -622,7 +622,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 29,
         "name": "Humor",
-        "image": "https://example.com/twain.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/groucho-marx.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 85,
@@ -644,7 +644,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 30,
         "name": "Faith",
-        "image": "https://example.com/king.jpg",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/martin-luther-king-jr-9365086-2-402.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
         "quotes": [
           {
             "id": 88,
@@ -688,7 +688,7 @@ export default defineEventHandler(async (event) => {
       {
         "id": 32,
         "name": "Leadership",
-        "image": "https://example.com/jobs.jpg",
+        "image": "https://media.gettyimages.com/id/75506479/photo/steve-jobs-at-the-el-capitan-theatre-in-hollywood-california.jpg?s=612x612&w=0&k=20&c=3hVzny18n1kml1AtxA4ag_eefRiCZoM2i3yqlVv_JHE=",
         "quotes": [
           {
             "id": 94,
