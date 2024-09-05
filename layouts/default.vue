@@ -1,5 +1,5 @@
 <template>
- <div class="mx-auto  max-w-8xl lg:mt-20 lg:px-8">
+ <div class="mx-auto  max-w-8xl lg:mt-20 lg:px-8 md:mt-10 md:px-6">
         <div   class="relative overflow-hidden bg-gray-900 px-6 py-20 shadow-xl sm:rounded-3xl sm:px-10 sm:py-24 md:px-12 lg:px-20">
           <img class="absolute inset-0 h-full w-full object-cover brightness-150 saturate-0" src="https://images.unsplash.com/photo-1502122184877-d174df5eb072?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
           <div class="absolute inset-0 bg-gray-900/90 mix-blend-multiply" />

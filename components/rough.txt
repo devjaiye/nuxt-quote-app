@@ -9,4 +9,6 @@ add footer, -- done
 add loader for category and quotes, -- done
 mobile responsiveness,
 change logo in header, --done
+success image too large 
+change app icon 
 add more quotes (20 at least) 
