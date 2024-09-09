@@ -2,8 +2,8 @@
 
   <div class="bg-white">
     <!-- search bar -->
-    <div class="mx-auto max-w-7xl flex text-center my-2 px-8">
-            <div class="flex items-center px-6 py-4 md:mx-auto md:max-w-3xl lg:mx-0 lg:max-w-none xl:px-0">
+    <div class="mx-auto max-w-7xl flex text-center my-2 lg:px-8">
+            <div class="flex items-center px-6 py-4 md:mx-0 md:max-w-3xl lg:mx-0 lg:max-w-none xl:px-0">
               <div class="w-64">
                 <label for="search" class="sr-only">Search</label>
                 <div class="relative">

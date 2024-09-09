@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-gray-800" aria-labelledby="footer-heading">
+    <footer class="bg-slate-900" aria-labelledby="footer-heading">
       <h2 id="footer-heading" class="sr-only">Footer</h2>
       <div class="mx-auto max-w-7xl px-6 py-12 lg:px-8">
         <div class=" border-gray-700  md:flex md:items-center md:justify-between">
